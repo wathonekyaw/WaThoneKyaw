@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WaThoneKyaw
-- 👀 I’m interested in fullstack web and app development , obserred in Ai
+- 👀 Just waiting for whatever is about to go wrong
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email -> wathonekyaw.x@gmail.com
